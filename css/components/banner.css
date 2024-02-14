@@ -1,0 +1,7 @@
+.banner {
+    background-image: url("https://static.ankama.com/dofus/ng/modules/mmorpg/rules/sanctions.jpg");
+    color: #fff; /* Couleur du texte sur la bannière */
+    text-align: center;
+    padding: 100px;
+    margin: 0%;
+  }

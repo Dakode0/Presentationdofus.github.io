@@ -1,0 +1,23 @@
+@import url("components/button.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/Logging.css");
+@import url("components/text.css");
+@import url("components/Images.css");
+
+body { 
+    background-color: rgb(35, 28, 63);
+}
+
+
+a {
+    text-decoration: none;
+    color: rgb(30, 30, 30);
+}
+.dofus-picture{
+    width: 200px;
+    height: 200px;
+}
+#dofus-border {
+    border: 4px blue solid;
+}
